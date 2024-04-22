@@ -3,7 +3,7 @@
 
 # Space Invaders Game
 
-![Space Invaders](space_invaders_screenshot.png)
+![Space Invaders](image.png)
 
 ## Overview
 
